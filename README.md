@@ -1,5 +1,5 @@
 
-https://drive.google.com/file/d/1KGw2cHH7EJuXrxRT-xUykXYTbBErrLKz/view
+https://drive.google.com/open?id=1kvy16tyZABYjpsSBSIOr96KPNC1QpHbs
 
 05/03/2020 - Added Linux related information to the installation guide
 
