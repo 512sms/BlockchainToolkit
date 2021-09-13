@@ -1,69 +1,45 @@
 
+BlockchainToolkit Installation Guide for Windows 11 Pro
+History 
+
+Dapp University has community members on the Windows platform experiencing issues with their blockchain projects. 
+A viable option was to setup a Windows 11 Pro environment. The BlockchainToolkit was built using VMWare Workstation Player 16.
+There are no licensing requirements as long as it is used for non-commercial purposes. 
+
+
 https://drive.google.com/file/d/1gJSv_K1kwTCG6RiaUShpn_AHYQQcr8Kd/view?usp=sharing - ok
-
 https://drive.google.com/file/d/15481VFXKs-0pw1W_40W3I2xA-5nwl8Px/view?usp=sharing - ok
-
 https://drive.google.com/file/d/1dFvNEgfJTgLM4KQBn-paVf-vurUNkbJN/view?usp=sharing - ok
-
 https://drive.google.com/file/d/1zV_I-Qnn0ySEp0oh0b9GqV1YeKHdZH6X/view?usp=sharing - ok
-
 https://drive.google.com/file/d/1guEuLFRh8Mx7wwTg1MQv8YmQwmL8smgS/view?usp=sharing  -ok
-
 https://drive.google.com/file/d/1dH1mLXobS_Nj9RAN21dBeY_fk-H7Bzxh/view?usp=sharing  -ok
-
 https://drive.google.com/file/d/1vIIzLwrTmsQ4SeyzlFkCTBppBXnonOXJ/view?usp=sharing  - ok
-
 https://drive.google.com/file/d/1xAnQPHinZgKobdrTowYtZKQcvu41DLHj/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1XtYzHBtQl-efekMdrinSnYiCn8PfUqBk/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1q5XzSer23OlwpbB-UFJJaeSss2cTbQ7_/view?usp=sharing -ok
-
 https://drive.google.com/file/d/13r91g25wLuDBYGm86uL1gO8EDOKp6BK6/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1a0YUNbwKV60Yc7CgZYxx-05FheGVPlvW/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1wTEtnODB3HOF8Salrpekwx15RIYsaGn9/view?usp=sharing -ok
 https://drive.google.com/file/d/1VxLMYdr6aYj31DvZOTWuEBnjGYNoLHva/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1k8GN6dlTisx_tj76Exc4cimrY3aPSx6N/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1Cucz1xsRx5WILfBNi0L1fP7UzJnkz-yL/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1odsqYd_JMPcSCb3YuvCWIz8tfyoFbZTA/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1z8mbUbQFunKqyZjUPHNRSE-NVpxikgpl/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1WstzITtiXrUBwZ9Oda2xx8ukNFt9X60m/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1V2t9uf6HNJHpYEvNclx0Q6AXy1BBGXtj/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1X3fLkqEWZzmyV_NsXu_fH-8I0n91S4Fb/view?usp=sharing -ok
-
 https://drive.google.com/file/d/13mu276NulkYkoD3IMS2f-3NV82lBk5Md/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1kMoGhRvHepL1fqExHpWdlCW8PH_Z4-gU/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1SmOaEVhakgWnkWaCEsfoMDMHT56sxGTa/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1XaDXw_xRFPy4MJZUpgWogrE6gHlPVdTl/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1HMbxRtMzFUXuiL5qBu6kuS8NMZEst8SI/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1Z1uapYg2W0YLopSyEy3Y64sa2N8GfzQy/view?usp=sharing  -ok
-
 https://drive.google.com/file/d/1Mlft_inuf8wvD4GhHBOpwfXtkTCkVsGJ/view?usp=sharing -ok
-
 https://drive.google.com/file/d/10-gpF_TNcFa2hbvizaD4KgMYIR-V2ZKv/view?usp=sharing -ok
-
 https://drive.google.com/file/d/188nph5j6eXRJqP4LzChCIBRUI90x91CY/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1ODG6qN3xNHYKCLNGjHk6dTxGR0oNGaLT/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1KEzBr3rOpW3qBVL-XYOfE20zTgZPSYsX/view?usp=sharing -ok
-
 https://drive.google.com/file/d/1qHyVgh_NmlCQNMta5L4iuQoz30gTTwyZ/view?usp=sharing -ok
-
 https://drive.google.com/file/d/18__yZbe9OyXHaQwTG61fHqjcbUVetR7c/view?usp=sharing - ok
 
 https://drive.google.com/file/d/1NtTszBAq_tgzbvuqgApvMEs8tvZFFJBI/view?usp=sharing -ok
